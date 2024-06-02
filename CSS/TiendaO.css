@@ -1,0 +1,7 @@
+.productosorden { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; } 
+.productosestilo { border: 1px solid #ddd; border-radius: 8px; overflow: hidden; width: 200px; text-align: center; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } 
+.productosestilo img { width: 100%; height: auto; } 
+.ajustesBotones { padding: 10px; } 
+.nombresestilos { font-size: 16px; margin: 10px 0; } 
+.precios { color: #d35400; font-size: 18px; margin: 10px 0; } 
+.Boton { display: inline-block; margin: 10px; padding: 10px 20px; background-color: orange; color: white; border-radius: 3px; }
